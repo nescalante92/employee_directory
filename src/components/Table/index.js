@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./style.css";
 import TableRow from "../TableRow/index";
 import API from "../../utils/API";
@@ -44,9 +44,9 @@ function Table() {
         </tr>
       </thead>
       <tbody>
-        {employeeState.map((person, index) => (
+        {employeeState.map((person, index) => ( //{employeeState.map((person, index)
           <TableRow
-            name={person.name.first}
+            name={person.name} //{person.name.first}
             key={index}
 
 
