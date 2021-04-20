@@ -23,7 +23,7 @@ As a user, I would like to be able to view my entire employee directory at once 
 ## Links 
 
 -   [Github] (https://github.com/nescalante92/employee_directory)
--   [Deployed Site] ()
+-   [Deployed Site] (https://shielded-beach-75674.herokuapp.com/)
 
 ---------------------
 
