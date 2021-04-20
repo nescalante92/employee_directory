@@ -20,11 +20,16 @@ As a user, I would like to be able to view my entire employee directory at once 
 
 ---------------------
 
-## Mock Image
-
---------------------------
-
 ## Links 
 
 -   [Github] (https://github.com/nescalante92/employee_directory)
 -   [Deployed Site] ()
+
+---------------------
+
+## Mock Image
+
+![employee_directory](images/empdir_img.png)
+
+
+
